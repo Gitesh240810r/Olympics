@@ -1,2 +1,0 @@
-# Olympics
-competition site
